@@ -1,0 +1,12 @@
+*{
+  font-family: Poppins;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.bloc{
+  display: grid;
+  grid-template-columns: 30% 50% 20%;
+  padding: 0px;
+  margin: 0px;
+  margin-top: 15px;
+}

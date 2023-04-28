@@ -1,0 +1,41 @@
+.logo{
+    width: 20px;
+    margin-bottom: 10px;
+}
+.menu-item{
+    padding-top: 5px;
+}
+.menu-item i{
+    margin-right: 10px;
+    width: 20px;
+}
+.tweet{
+    width: 100%;
+    background-color: #1d9bf0;
+    border: none;
+    border-radius: 20px;
+    margin-top: 25px;
+    color: white;
+    padding: 5px;
+}
+.sidebar{
+    margin-right: 80px;
+}
+.profile{
+    width: 30px;
+    border-radius: 100%;
+}
+.image-item{
+    position: absolute;
+    bottom: 10px;
+    font-size: 10px;
+    vertical-align: top;
+}
+.border
+{
+    border: 1px solid rgb(216, 214, 214);
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
